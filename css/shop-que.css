@@ -1,0 +1,39 @@
+.ltt-shop-container{
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+    color: #666;
+}
+.center-wrapper {
+    width: 1240px;
+    margin: 0 auto;
+    padding: 35px 0 50px;
+    position: relative;
+}
+.clearfix:before {
+    content: "";
+    display: table;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+.clearfix:after{
+    content: "";
+    display: table;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+.bread-nav a {
+    color: #00c3f5;
+}
+.bread-nav em {
+    display: inline-block;
+    width: 18px;
+    height: 10px;
+    margin: 0 6px;
+    background-image: url("../img/offline/crumbs_icon_a16b168.png");
+}
+.bread-nav .act {
+    color: #515151;
+}
